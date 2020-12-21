@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Cursova">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cursova</output-path>
+    <root id="root">
+      <element id="archive" name="Cursova.jar">
+        <element id="module-output" name="Cursova" />
+      </element>
+    </root>
+  </artifact>
+</component>
